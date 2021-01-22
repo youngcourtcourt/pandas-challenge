@@ -1,1 +1,4 @@
 # pandas-challenge
+
+Based on the data provided, two observable trends appear. The first is that overwhelmingly Charter schools perform better in the math and reading metrics than district schools. This is evidenced by the fact that the top 5 performing schools are charter schools, and when reading and math scores are viewed as an aggregate of either 'District' or 'Charter' schools, Charter schools have higher average scores. 
+The second trend is that while it may be counter-intuitive, an increase in spending per student does not correlate with higher scores. In fact, it appears that an increase in spending per student actually has a negative impact on average scores. 
